@@ -1,16 +1,43 @@
 body {
     padding: 10%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Section__title {
+    font-family: 'Futura PT', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #3F3F3F;
 }
 
 .MediumsSection__button {
     margin-top: 1rem;
-    padding: .5rem;
+    padding: 1rem;
     color: black;
     background-color:#FFB71B;
     border: 0;
-    border-radius: 5px;
+    border-radius: 3px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+
 }
 
-.row {
-    background-color: green;
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #3C3F42;
+}
+
+.img__titleGroup {
+    margin-top: 6px;
+}
+
+.Medium__img {
+    border-radius: 3px;
+}
+
+.iconify {
+    margin-left: 4px;
 }
